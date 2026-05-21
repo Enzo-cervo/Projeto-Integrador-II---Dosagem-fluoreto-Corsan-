@@ -14,7 +14,7 @@ Desenvolver um sistema de automação baseado em microcontrolador para controle 
 - [`docs/`](docs/): documentação técnica e descrição do projeto;
 - [`hardware/`](hardware/): diagrama elétrico, conexões e lista de componentes;
 - [`iot/`](iot/): informações relacionadas ao monitoramento digital e integração com Grafana;
-- [`testes/`](testes/): registros de testes de funcionamento em bancada.]
+- [`testes/`](testes/): registros de testes de funcionamento em bancada.
   
 ## Tecnologias utilizadas
 
