@@ -20,13 +20,13 @@ Desenvolver um sistema de automação baseado em microcontrolador para controle 
 
 - ESP32;
 - Arduino IDE;
-- Linguagem C/C++;
+- Linguagem C++ E JavaScript;
 - Sensor de vazão;
 - Conversor de sinal PWM para saída analógica;
 - Fonte 24 Vcc;
 - Fonte 5 Vcc;
 - Monitoramento digital;
-- Grafana.
+- Node-RED.
 
 ## Integrantes
 
