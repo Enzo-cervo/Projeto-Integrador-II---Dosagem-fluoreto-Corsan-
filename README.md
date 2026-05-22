@@ -13,7 +13,7 @@ Desenvolver um sistema de automação baseado em microcontrolador para controle 
 - [`src/`](src/): códigos desenvolvidos para o ESP32;
 - [`docs/`](docs/): documentação técnica e descrição do projeto;
 - [`hardware/`](hardware/): diagrama elétrico, conexões e lista de componentes;
-- [`iot/`](iot/): informações relacionadas ao monitoramento digital e integração com Grafana;
+- [`iot/`](iot/): informações relacionadas ao monitoramento digital;
 - [`testes/`](testes/): registros de testes de funcionamento em bancada.
   
 ## Tecnologias utilizadas
